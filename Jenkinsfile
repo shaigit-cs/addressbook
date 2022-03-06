@@ -1,6 +1,6 @@
 pipeline {
 
-  agent { node { label 'master' } }
+  agent { node { label 'Lab-Agent-Node' } }
 
   tools {
       maven 'maven3.6.3'
