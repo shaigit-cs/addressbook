@@ -1,3 +1,7 @@
 <suite name="TestNGXMLTest Test Suite" guice-stage="DEVELOPMENT" parallel="classes">
-  <class>JenkinsDemo</class>
+	<test thread-count="5" name="TestNGXMLTest Test" verbose="2">
+    <classes>
+			<class name="JenkinsDemo" />
+    </classes>
+	</test>
 </suite>
