@@ -68,7 +68,6 @@
             <artifactId>selenium-java</artifactId>
             <version>2.28.0</version>
         </dependency>
-        <dependency>
 		<dependency>
 		    <groupId>junit</groupId>
 		    <artifactId>junit</artifactId>
