@@ -1,3 +1,3 @@
 <suite name="TestNGXMLTest Test Suite" guice-stage="DEVELOPMENT" parallel="classes">
-
+  <class>JenkinsDemo</class>
 </suite>
