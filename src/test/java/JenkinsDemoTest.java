@@ -9,7 +9,7 @@ import org.testng.annotations.BeforeTest;
 
 public class JenkinsDemoTest{
 public String baseUrl = "https://www.google.com/";
-String driverPath = "/shaigtzgmail/Downloads/chromedriver";
+String driverPath = "/Downloads/chromedriver";
 
 public WebDriver driver ;
 
